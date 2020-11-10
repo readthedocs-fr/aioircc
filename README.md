@@ -1,0 +1,2 @@
+# aioircc
+Async IRC client
